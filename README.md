@@ -13,3 +13,5 @@
 6. Напишите туда свои stripe ключи (приватный и публичный)
 7. Запустите проект
 - python manage.py runserver 
+8. Для создания superuser'a, скопируйте файл .env_example, который возле docker-compose под именем .env
+- cp .env_example .env
